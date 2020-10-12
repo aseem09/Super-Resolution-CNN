@@ -21,6 +21,14 @@ Here Φ denotes the activation of the 6th layer of a pre-trained VGGNet16 model.
 
 To view the architecture of custom VGG model click [here](https://user-images.githubusercontent.com/43964071/95691772-509ef600-0c3f-11eb-86f8-f1639ead7288.png)
 
+The final loss function looks something like-
+
+<img src="https://user-images.githubusercontent.com/43964071/95794282-2152bc80-0d05-11eb-985e-bf192ecd26d2.png"> 
+
+Where,
+<img src="https://user-images.githubusercontent.com/43964071/95794345-4810f300-0d05-11eb-8fa3-f333ef1454ca.png">
+
+
 ## Results
 ### 1. Un-Optimized Model
 
